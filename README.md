@@ -2,7 +2,7 @@
 ## Jelani Garnes - 100801696
 ### General
 - [X] A playable main character
-- [] A win/lose condition
+- [ ] A win/lose condition
 
 ### Controls
 WASD - Player movement </br>
