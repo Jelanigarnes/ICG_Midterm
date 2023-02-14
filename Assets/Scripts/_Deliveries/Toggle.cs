@@ -21,7 +21,7 @@ public class Toggle : MonoBehaviour
         {
             this.gameObject.GetComponent<MeshRenderer>().material = materials[1];
         }
-        else if (Input.GetKey(KeyCode.Alpha3))
+        else if (Input.GetKey(KeyCode.Alpha4))
         {
             this.gameObject.GetComponent<MeshRenderer>().material = materials[2];
         }
